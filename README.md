@@ -30,7 +30,7 @@ If you are also using the behaviours that come with the Gem, you can use by incl
 	
 	//= require elemental-reload
 	//= require elemental-javascript_enabled
-  //= require elemental-jquery_plugin
+  	//= require elemental-jquery_plugin
 
 ## Contributing
 
